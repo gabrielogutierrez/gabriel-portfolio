@@ -9,7 +9,7 @@ npm.cmd run dev
 
 ## O que entrou nesta versão
 
-- foto do Gabriel;
+
 - WhatsApp direto;
 - galeria com telas reais do FlowTask;
 - capa visual do FiscalFlow;
