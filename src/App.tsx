@@ -113,7 +113,7 @@ export default function App() {
             </a>
             <a
               className="button secondary"
-              href="/curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
+              href="./curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
               download
             >
               ↓ Baixar currículo
@@ -332,7 +332,7 @@ export default function App() {
             </div>
             <a
               className="button primary resume-button"
-              href="/curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
+              href="./curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
               download
             >
               ↓ Baixar PDF
@@ -351,7 +351,7 @@ export default function App() {
             </div>
             <a
               className="button secondary resume-button"
-              href="/curriculos/Gabriel_Gutierrez_Mobile_Flutter.pdf"
+              href="./curriculos/Gabriel_Gutierrez_Mobile_Flutter.pdf"
               download
             >
               ↓ Baixar PDF
@@ -379,7 +379,7 @@ export default function App() {
           </a>
           <a
             className="button secondary"
-            href="/curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
+            href="./curriculos/Gabriel_Gutierrez_Backend_NET.pdf"
             download
           >
             ↓ Currículo
